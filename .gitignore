@@ -8,3 +8,6 @@ venv/
 .idea
 htmlcov/
 .DS_Store
+
+.aider*
+logs/
