@@ -39,5 +39,4 @@ def configure(default_ignore_list: Optional[List[str]]=None, extend_ignore_list:
 
 
 def reset_config() -> None:
-    global settings
-    settings = Settings()
+    pass
